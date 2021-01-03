@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyMoments/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/MyMoments/static/js/main.13a46d27.chunk.js",
+    "main.js.map": "/MyMoments/static/js/main.13a46d27.chunk.js.map",
+    "runtime-main.js": "/MyMoments/static/js/runtime-main.3283ee96.js",
+    "runtime-main.js.map": "/MyMoments/static/js/runtime-main.3283ee96.js.map",
+    "static/js/2.e8a75b88.chunk.js": "/MyMoments/static/js/2.e8a75b88.chunk.js",
+    "static/js/2.e8a75b88.chunk.js.map": "/MyMoments/static/js/2.e8a75b88.chunk.js.map",
+    "index.html": "/MyMoments/index.html",
+    "precache-manifest.8138feb9b3e14b8886d76dc83dbab3f9.js": "/MyMoments/precache-manifest.8138feb9b3e14b8886d76dc83dbab3f9.js",
+    "service-worker.js": "/MyMoments/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/MyMoments/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.e8a75b88.chunk.js.LICENSE.txt": "/MyMoments/static/js/2.e8a75b88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3283ee96.js",
+    "static/js/2.e8a75b88.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.13a46d27.chunk.js"
+  ]
+}
